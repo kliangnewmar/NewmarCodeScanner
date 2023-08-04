@@ -5,5 +5,9 @@ Update SDK:
 4. npx expo install --fix
 5. npx expo-doctor 
 6. expo login
+   username: kliangnewmar
+   password: newmarexpo
 7. expo publish -- will be deprecated after 2024-02-12
 
+Note: SDK49 keeps crashing, so I have installed SDK48 to newmarscanner and SDK47 to scanner2 project for backup in SDK48 branch.
+Master branch is for SDK49.
