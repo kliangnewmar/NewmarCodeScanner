@@ -1,9 +1,9 @@
 Update SDK:
-1. npm i -g expo-cli
-2. expo upgrade
-3. update versions in app.json
-4. expo build:ios ->
-    Login: kliangnewmar
-    Password: newmarexpo
-    -> simulator
+1. npm install
+2. npm i -g expo-cli
+3. expo-cli upgrade
+4. npx expo install --fix
+5. npx expo-doctor 
+6. expo login
+7. expo publish -- will be deprecated after 2024-02-12
 
