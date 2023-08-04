@@ -11,3 +11,5 @@ Update SDK:
 
 Note: SDK49 keeps crashing, so I have installed SDK48 to newmarscanner and SDK47 to scanner2 project for backup in SDK48 branch.
 Master branch is for SDK49.
+
+To switch between projects in EXPO, just need to change the NewmarCodeScanner in app.json to scanner2
